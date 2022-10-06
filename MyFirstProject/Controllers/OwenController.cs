@@ -4,7 +4,7 @@ namespace MyFirstProject.Controllers
 {
     public class OwenController : Controller
     {
-        public IActionResult Index()
+        public IActionResult OwenIndex()
         {
             return View();
         }
