@@ -6,7 +6,7 @@ namespace MyFirstProject.Controllers
     {
         public string Index()
         {
-            return "我愛peko";
+            return "我愛peko!";
         }
     }
 }
