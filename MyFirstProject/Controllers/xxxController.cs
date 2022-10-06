@@ -4,9 +4,9 @@ namespace MyFirstProject.Controllers
 {
     public class xxxController : Controller
     {
-        public IActionResult Index()
+        public string Index()
         {
-            return View();
+            return "xxx";
         }
     }
 }

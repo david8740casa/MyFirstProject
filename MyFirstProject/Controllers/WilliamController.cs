@@ -2,11 +2,11 @@
 
 namespace MyFirstProject.Controllers
 {
-    public class DavidController : Controller
+    public class WilliamController : Controller
     {
         public string Index()
         {
-            return "我愛peko!";
+            return "我愛peko";
         }
     }
 }
